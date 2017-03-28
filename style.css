@@ -1,0 +1,22 @@
+
+
+#header {
+  height: 200px;
+  border: solid 2px black;
+  margin: 0;
+  position: absolute;
+}
+body {
+  position: absolute;
+  margin: 0;
+}
+
+#site {
+  position: absolute;
+}
+
+
+.nav {
+  color: white;
+  font-family: sans-serif;
+}
